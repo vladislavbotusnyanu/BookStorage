@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path name="external_files" path="." />
+    <external-path
+        name="files"
+        path="/data/data/com.morning_angel.book_storage/files/" />
+
+    <files-path name="internal_files" path="LocalBookStorage/" />
+
+<!--    <files-path-->
+<!--        name="files"-->
+<!--        path="." />-->
+</paths>
